@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "KISHAN"
 description              : &description "An enthusiastic, adaptive, and fast learning post graduate interested in Action Research. I am looking to start my doctoral research in Economics (Applied Economics)"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : ""https://kishan52s.github.io
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "KISHAN"
-  avatar           : "![](../images/profile.png)"
+  avatar           : "profile.png"
   bio              : "Research Fellow at Ministry of Finance|JNU'21 & BHU '19"
   location         : "New Deli, India"
   employer         :
