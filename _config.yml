@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "KISHAN"
-  avatar           : "profile.png"
+  avatar           : "![](../images/profile.png)"
   bio              : "Research Fellow at Ministry of Finance|JNU'21 & BHU '19"
   location         : "New Deli, India"
   employer         :
