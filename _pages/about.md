@@ -14,5 +14,5 @@ My current research studies the warranted and un-warranted subsidies in India. W
 
 I am also a student activist at the Democratic Students' Federation(DSF-JNU), Jawaharlal Nehru University. It is an independent progressive student organization actively working on the JNU campus. I serve on the organization committee to evaluate and propose public education and marginalized welfare ideas. In Addition, I am working with different organizations toward marginalized welfare. My objective is to put forward marginalized perspectives that have largely been absent until now from the field of economics and Development.
 
-Please Feel free to get in touch at kishan.k@nipfp.org.in/ ecokishan22@gmail.com
+Please Feel free to get in touch at kishan.k@nipfp.org.in / ecokishan22@gmail.com
 
